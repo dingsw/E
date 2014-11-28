@@ -1,0 +1,76 @@
+.guanggao2 {
+	float: right;
+	height: 335px;
+	width: 390px;
+	font-size: 11px;
+	color: #53095e;
+	margin-top: -360px;
+	margin-right: 427px;
+}
+.xiaotu {
+	height: 120px;
+	width: 116px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 2px;
+	filter: Gray;
+	background-color: #FFFFFF;
+}
+.datu {
+	background-color: #53093e;
+	height: 140px;
+	width: 150px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 2px;
+}
+
+
+
+.daohang1 {
+	height: 530px;
+	width: 300px;
+	background-image: url(../images/bg.png);
+	background-repeat: no-repeat;
+	margin-left: 220px;
+	padding-top: 40px;
+	padding-left: 20px;
+	margin-top: -120px;
+}
+.daohang2 {
+	height: 390px;
+	width: 920px;
+	background-image: url(../images/daohangbg.png);
+	background-repeat: no-repeat;
+	margin-left: 220px;
+	padding-left: -100px;
+	margin-top: -20px;
+}
+.daohang3 {
+	height: 390px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 920px;
+	background-image: url(../images/daohangbg.png);
+	background-repeat: no-repeat;
+}
+.daohang4 {
+	height: 390px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 920px;
+	background-image: url(../images/daohangbg.png);
+	background-repeat: no-repeat;
+}
+.daohang5 {
+	height: 390px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 920px;
+	background-image: url(../images/daohangbg.png);
+	background-repeat: no-repeat;
+}
+.ming {
+	padding-top: 8px;
+	padding-left: 10px;
+}

@@ -1,0 +1,196 @@
+<!--
+td {
+	font-size: 9pt;	color: #000000;
+}
+a:hover {
+	font-size: 9pt;	color: #FF0000;
+}
+a {
+	font-size: 9pt;	text-decoration: none;	color: #000000;	
+}
+img{
+	border:0;
+}
+.img1{
+	border:1;
+}
+.blue {
+	font-size: 9pt;	color: #034683;
+}
+.bgcolor {
+	font-size: 9pt;	color: #1980DB;
+}
+.btn_grey {
+	font-family: "ËÎÌו";	font-size: 9pt;color: #333333;	
+	background-color: #eeeeee;cursor: hand;padding:1px;height:19px;
+	border-top: 1px solid #FFFFFF;border-right:1px solid #666666;
+	border-bottom: 1px solid #666666;border-left: 1px solid #FFFFFF;
+}
+input{
+	font-family: "ËÎÌו";
+	font-size: 9pt;
+	color: #333333;
+	border: 1px solid #999999;
+
+}
+.word_white{
+ color:#FFFFFF;
+}
+.word_deepgrey{
+ color:#999999;
+}
+.word_orange{
+ color:#FF6600;
+}
+.word_green{
+ color:#FEECEA;
+}
+.noborder{
+border:none;
+}
+.word_gray{
+ color:#dddddd;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;	
+}
+textarea {
+	font-family: "ËÎÌו";
+	font-size: 9pt;
+	color: #333333;
+	border: 1px solid #999999;
+}
+
+
+hr{
+border-style:dashed;
+color:#CCCCCC;
+}
+
+
+
+
+
+
+
+
+
+
+.a1:link {    
+	COLOR: #FFFFFF; TEXT-DECORATION: none; font-size:15px;
+}
+.a1:visited {   
+	COLOR: #FFFFFF; TEXT-DECORATION: none; font-size:15px;
+}
+.a1:active {    
+	COLOR: #FFFFFF; TEXT-DECORATION: none; font-size:15px;
+}
+.a1:hover {   
+	COLOR: #FF0000; font-size:15px;
+}
+
+.a2:link {    
+	COLOR: #606060; TEXT-DECORATION: underline ; font-size:12px;
+}
+.a2:visited {   
+	COLOR: #606060; TEXT-DECORATION: underline; font-size:12px;
+}
+.a2:active {    
+	COLOR: #606060; font-size:12px; text-decoration:underline;
+	
+}
+.a2:hover {   
+	COLOR: #FF0000; font-size:12px;
+}
+
+.a3:link {    
+	COLOR: #ffffff; TEXT-DECORATION: none; font-size:12px;border-bottom:2px double;
+}
+.a3:visited {   
+	COLOR: #ffffff; TEXT-DECORATION: none; font-size:12px;border-bottom:2px double;
+}
+.a3:active {    
+	COLOR: #ffffff; font-size:12px; text-decoration:none;border-bottom:2px double;
+	
+}
+.a3:hover {   
+	COLOR: #FFE400; font-size:12px; border-bottom:2px double;
+}
+
+
+
+.a4:link {    
+	COLOR: #606060; TEXT-DECORATION: none ; font-size:12px;
+}
+.a4:visited {   
+	COLOR: #606060; TEXT-DECORATION: none; font-size:12px;
+}
+.a4:active {    
+	COLOR: #606060; font-size:12px; text-decoration:none;
+	
+}
+.a4:hover {   
+	COLOR: #FF0000; font-size:12px;
+}
+
+
+
+.a5:link {    
+	COLOR: #A90000; TEXT-DECORATION: underline ; font-size:12px;
+}
+.a5:visited {   
+	COLOR: #A90000; TEXT-DECORATION: underline; font-size:12px;
+}
+.a5:active {    
+	COLOR: #A90000; font-size:12px; text-decoration:underline;
+	
+}
+.a5:hover {   
+	COLOR: #FF0000; font-size:12px;
+}
+
+
+.a6:link {    
+	COLOR: #00A3FE; TEXT-DECORATION: underline ; font-size:12px;
+}
+.a6:visited {   
+	COLOR: #00A3FE; TEXT-DECORATION: underline; font-size:12px;
+}
+.a6:active {    
+	COLOR: #00A3FE; font-size:12px; text-decoration:underline;
+	
+}
+.a6:hover {   
+	COLOR: #FF0000; font-size:12px;
+}
+
+
+
+
+
+.line{
+  color:#FFE400  ;
+  font-size:9pt;
+  line-height:12pt;  
+}
+.word {
+
+	color: 676767;
+
+	 
+}
+
+
+
+.lineline{
+  line-height:1.5em;  
+}
+
+
+
+
+
+-->

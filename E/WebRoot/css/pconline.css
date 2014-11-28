@@ -1,0 +1,49 @@
+html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, font, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td {margin:0;padding:0;border:0;outline: 0;}
+ol, ul {list-style: none;}
+li{vertical-align:middle;}
+i{font-style:normal;}
+body{font-size:12px; text-align:center;}
+.spanclass{display:none;position:absolute;top:-15px;left:-15px;float:left;width:5px;height:5px;font-size:5px;line-height:5px;}
+.clear{clear:both;}
+a:link,a:visited{color:#000;text-decoration:none;}
+a:hover{color:#f60;text-decoration:underline;}
+a .red,a:visited .red,a:hover .red{color:#c00;}
+a.red:link,a.red:visited{color:#c00;}
+
+
+#container{ width:960px;}
+
+.PriceLinks{text-align:left;width:190px; float:right; height:1200px;}
+.theadPrice{height:27px;width:190px;line-height:27px;background:url(../images/index_bg_0907.gif) no-repeat 0 -178px; float:right;}
+.theadPrice .mark{padding:0px 8px 0px 30px;text-align:left;font-weight:bold;}
+.theadPrice .mark a{text-decoration:none;}
+.newPriceLinks{height:auto; float:right; zoom:1;overflow:visible;border:1px solid #dbdbdb;border-top:none;background:#fafaf8 url(../images/price_bg.gif) repeat-x 0 bottom;width:188px;}
+.newPriceLinks dl{ height:auto;margin-top:3px;zoom:1;clear:both;overflow:visible;}
+.newPriceLinks dl:after{ content:".";height:0;display:block;clear:both;visibility:hidden;}
+.newPriceLinks dt{ height:19px;line-height:14px;padding:5px 7px 0 8px;border-top:1px dashed #c9c5c6;zoom:1;clear:both;overflow:visible;}
+.newPriceLinks dt.nobr{ border-top:1px dashed #ffffff;}
+.newPriceLinks dt p{ line-height:14px;border-bottom:none;padding:0;}
+.newPriceLinks dt i.title{ color:#f76f01;padding-left:13px;background:url(../images/arrowy.gif) no-repeat 4px 3px;float:left;}
+.newPriceLinks dt i.title a{ color:#f76f01;}
+.newPriceLinks dt i.arrow{ width:9px;height:10px;background:url(../images/arrowy3.gif) no-repeat;display:none;overflow:hidden;}
+.newPriceLinks dt a:hover{ text-decoration:none;}
+.newPriceLinks dt a.more{ float:right;}
+.newPriceLinks dd{ height:21px;line-height:21px;margin:0 0 0 6px;padding:0;word-wrap:break-word;word-break:break-all;float:left;display:inline;}
+.newPriceLinks dd a{white-space:nowrap;float:left;}
+.newPriceLinks dt.sfhover{ height:18px;line-height:14px;padding:5px 6px 0 7px;border:1px solid #fcc36c;background:#fdf6e3;position:relative;overflow:visible; z-index:88;}
+.newPriceLinks dt.sfhover i.title{ color:#9b3203;background:url(../images/arrowy2.gif) no-repeat 4px 3px;}
+.newPriceLinks dt.sfhover a.more,.newPriceLinks dt.sfhover i.title a{ color:#9b3203;}
+.newPriceLinks dt.sfhover i.arrow{ display:block;position:absolute;z-index:99;left:-4px;top:7px;}
+.newPriceLinks dt.sfhover div{padding:3px;left:-310px;top:-15px;border:1px solid #ffbd66;background:#fff6d9;position:absolute;z-index:88;display:block;}
+.newPriceLinks dt.sfhover div dl{ width:286px;line-height:24px;padding:5px 6px 3px 10px;margin-top:0;background:#ffffff;zoom:1;clear:both;overflow:hidden;}
+.newPriceLinks dt.sfhover div dt{ height:24px;line-height:24px;padding:0;border:none;font-weight:bold;color:#d80005;background:none;overflow:hidden;}
+.newPriceLinks dt.sfhover div dt a{ color:#d80005;}
+.newPriceLinks dt.sfhover div dt.short{ height:21px;line-height:21px;float:left;}
+.newPriceLinks dt.sfhover div dd{ margin:0 6px 0 0;}
+.newPriceLinks dt.sfhover div dd a:hover{ color:#d80005;text-decoration:underline;}
+.newPriceLinks dt div{ left:0;top:0;display:none;}
+.newPriceLinks .divScroll{height:23px;width:175px;padding:0 5px 0 8px;overflow:hidden;border-bottom:1px dashed #c9c5c6;}
+.newPriceLinks .divScroll .contentdiv{zoom:1;}
+.newPriceLinks .divScroll i{display:block;float:left;}
+.newPriceLinks .divScroll .iKey{width:28px;height:13px;padding:2px 0 0 1px;margin:3px 5px 0 0;background:url(../images/hot_icon1.gif) no-repeat;text-align:center;color:#fff;}
+.newPriceLinks .divScroll .iTit{width:140px;height:23px;font-weight:bold;line-height:23px;}
