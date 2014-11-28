@@ -5,11 +5,10 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
-
 import com.bean.GoodsBean;
 import com.tools.ConnDB;
 import com.tools.DB;
-
+//ÉÏ´«
 public class GoodsDao extends SuperDao{
 	ConnDB con = null;
 	String sql = null;
